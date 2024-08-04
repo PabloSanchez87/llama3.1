@@ -1,5 +1,8 @@
 # Llama 3.1
 
+## Github - Ollama
+- [Readme OFICIAL](https://github.com/ollama/ollama/blob/main/docs/README.md)
+  
 ## Descarga de Ollama | Instalación.
 
 - [Descargar ollama](https://ollama.com/download)
