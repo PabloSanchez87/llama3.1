@@ -1,5 +1,9 @@
 # Llama 3.1
 
+## Probar la Aplicación
+Una versión de la aplicación está desplegada y puede ser probada directamente en el navegador a través del siguiente enlace:
+[Prueba la aplicación aquí](https://chat-llama3.streamlit.app/)
+
 ## Github - Ollama
 - [Readme OFICIAL](https://github.com/ollama/ollama/blob/main/docs/README.md)
   
