@@ -16,5 +16,6 @@ def set_page_config():
             'Report a bug': 'https://github.com/PabloSanchez87/Utils_with_Python/issues',
             'About': "# Chat generado con Llama 3.1\nEsta aplicación genera un chat con memoria personalizable.\n\nCreada por Pablo Sánchez.\nPara soporte, envíe un correo a sancheztorrespablo@gmail.com."
         },
+        
     )
     

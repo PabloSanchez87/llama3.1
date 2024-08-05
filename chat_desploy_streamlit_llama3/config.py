@@ -18,7 +18,7 @@ def set_page_config():
         page_title=page_title,
         page_icon=page_icon,
         layout=layout,
-        initial_sidebar_state="expanded",
+        initial_sidebar_state="auto",
         menu_items={
             'Get Help': 'https://www.linkedin.com/in/pablosancheztorres/',
             'Report a bug': 'https://github.com/PabloSanchez87/Utils_with_Python/issues',
